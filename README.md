@@ -25,7 +25,7 @@ For Python Users
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/Lume.git  
+git clone https://github.com/lume267/Lume.git  
 cd Lume
 
 
