@@ -24,9 +24,7 @@ Installation
 For Python Users
 
 1. Clone this repository:
-
-git clone https://github.com/lume271/Lume.git  
-cd Lume
+A-new-coding-language-with-pure-english-syntax.
 
 
 2. Run the interpreter:
